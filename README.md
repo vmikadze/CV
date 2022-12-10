@@ -15,18 +15,21 @@ FC Spartak-Moscow, Yandex-Market  and other world events, decided to change his 
    </a>
   </p>
 
-Education
+<b> Education </b>
 
 *  2011 - 2017 National Research Nuclear University MEPhI - nuclear reactors and materials
 *  2013 - 2016 National Research Nuclear University MEPhI - economic security
 
-SKILLS
+<b> Theory knowleges </b>
 
-*  Knowledge of Testing theory
-*  Knowledge of test design techniques
+*  Testing theory
+*  Test design techniques
+*  SDLC and STLC
+*  Workflows types
+
+<b> Skills </b>
+
 *  Test cases and check lists creation (TestLink, TestRail) Bug reports posting (Jira)
-*  Understanding of SDLC and STLC
-*  Understanding of workflows types
 *  Familiar with Devtools
 *  Knowledge of client‐server architecture API testing with Postman and SOAP UI Performance testing with Apache Jmeter
 *  Experience using Control Version Systems (Git)
