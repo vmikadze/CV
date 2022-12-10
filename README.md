@@ -20,7 +20,7 @@ FC Spartak-Moscow, Yandex-Market  and other world events, decided to change his 
 *  2011 - 2017 National Research Nuclear University MEPhI - nuclear reactors and materials
 *  2013 - 2016 National Research Nuclear University MEPhI - economic security
 
-<b> Theory knowleges </b>
+<b> Theory knowledges </b>
 
 *  Testing theory
 *  Test design techniques
