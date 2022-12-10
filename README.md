@@ -17,8 +17,8 @@ FC Spartak-Moscow, Yandex-Market  and other world events, decided to change his 
 
 <b> Education </b>
 
-*  2011 - 2017 National Research Nuclear University MEPhI - nuclear reactors and materials
-*  2013 - 2016 National Research Nuclear University MEPhI - economic security
+*  2011 - 2017 National Research Nuclear University MEPhI - "Nuclear reactors and materials"
+*  2013 - 2016 National Research Nuclear University MEPhI - "Economic security"
 
 <b> Theory knowledges </b>
 
