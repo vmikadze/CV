@@ -1,7 +1,7 @@
 Hi, I'm Mikadze Vladimir
 
-Junior QA Engineer who was project-manager with more than 7 years work experience organazing sport events with RedBull, Winline, 
-FC Spartak-Moscow, Yandex-Market  and other world events, decided to change job by passing "QA Engineer" courses.
+Junior QA Engineer who was a project-manager with more than 7 years work experience organazing sport events with RedBull, Winline, 
+FC Spartak-Moscow, Yandex-Market and other world events, decided to change job by passing "QA Engineer" courses.
 
 <p align='center'>
    Сontact me via:
