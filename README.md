@@ -32,7 +32,8 @@ FC Spartak-Moscow, Yandex-Market and other world events, decided to change job b
 *  Test cases and check lists creation (TestLink, TestRail) 
 *  Bug reports posting (Jira)
 *  Familiar with Devtools
-*  Knowledge of client‐server architecture API testing with Postman and SOAP UI Performance testing with Apache Jmeter
+*  Knowledge of client‐server architecture API testing with Postman and SOAP UI 
+*  Performance testing with Apache Jmeter
 *  Experience using Control Version Systems (Git)
 *  HTML, CSS, XML, JSON
 *  Basic knowledge of SQL (MySQL)
