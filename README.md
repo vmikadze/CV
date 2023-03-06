@@ -29,7 +29,8 @@ FC Spartak-Moscow, Yandex-Market and other world events, decided to change job b
 
 <b> Skills </b>
 
-*  Test cases and check lists creation (TestLink, TestRail) Bug reports posting (Jira)
+*  Test cases and check lists creation (TestLink, TestRail) 
+*  Bug reports posting (Jira)
 *  Familiar with Devtools
 *  Knowledge of client‐server architecture API testing with Postman and SOAP UI Performance testing with Apache Jmeter
 *  Experience using Control Version Systems (Git)
